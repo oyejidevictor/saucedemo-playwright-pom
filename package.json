@@ -1,0 +1,17 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "Playwright JavaScript E2E tests for SauceDemo",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report",
+    "test:login": "playwright test tests/login.spec.js",
+    "test:product": "playwright test tests/product.spec.js",
+    "test:checkout": "playwright test tests/checkout.spec.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}

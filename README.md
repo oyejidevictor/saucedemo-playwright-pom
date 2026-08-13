@@ -130,7 +130,7 @@ git --version
 
 ## Installation
 
-  - git clone <YOUR-GITHUB-REPOSITORY-URL>
+  - git clone https://github.com/oyejidevictor/saucedemo-playwright-pom
   - cd saucedemo-playwright-pom
   - npm install
   - npx playwright install

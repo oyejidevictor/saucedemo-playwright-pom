@@ -1,0 +1,7 @@
+{
+    "cartBadge": ".shopping_cart_badge",
+    "elementType": "button",
+    "elementName": "Checkout",
+    "shoppingCartLink": ".shopping_cart_link",
+    "cartItem": ".cart_item"
+}

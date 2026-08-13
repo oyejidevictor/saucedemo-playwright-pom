@@ -1,0 +1,6 @@
+{
+    "inventoryList": "body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1)",
+    "backpackAddToCartButton": "#add-to-cart-sauce-labs-backpack",
+    "backpackRemoveButton": "#remove-sauce-labs-backpack",
+    "sortDropdown": ".product_sort_container"
+}

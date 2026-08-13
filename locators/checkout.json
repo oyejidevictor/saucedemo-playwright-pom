@@ -1,0 +1,9 @@
+{
+    "firstNameInput": "#first-name",
+    "lastNameInput": "#last-name",
+    "postalCodeInput": "#postal-code",
+    "continueButton": "button[name='Continue']",
+    "finishButton": "button[name='Finish']",
+    "completeHeader": "Thank you for your order!",
+    "confirmationImage": "img[alt='Pony Express']"
+}

@@ -1,0 +1,7 @@
+{
+    "usernameInput": "#user-name",
+    "passwordInput": "#password",
+    "elementType": "button",
+    "elementName": "Login",
+    "errorMessage": "h3[data-test='error']"
+}
